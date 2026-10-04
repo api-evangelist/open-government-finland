@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Finland
     description: "Finland Government Open Data"
     humanURL: https://www.avoindata.fi/en
-    baseURL: https://www.avoindata.fi/en
     tags:
       - Government
     properties:
